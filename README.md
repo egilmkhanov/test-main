@@ -1,6 +1,6 @@
 # test-main
 
-fork comment
+now it's very special comment
 
 добавил текст 1
 
